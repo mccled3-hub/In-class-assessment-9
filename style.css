@@ -10,23 +10,26 @@ html {
 
 }
 
+p {
+border: 2px solid black;
+background-color: darkblue;
+border-radius: 20%;
+}
+
 .title { 
-height: 500px;
-width:500px;
+
 }
 
 .quote {
-height: 500px;
-width:500px;
+
 }
 
 .author {
-height: 500px;
-width:500px;
+
 }
 
 .pic {
-height: 500px;
-width:500px;
-border-radius: 50%;
+width: 100%; height: auto;
+overflow:hidden;
+border-radius: 20%;
 }
