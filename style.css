@@ -2,3 +2,31 @@
   margin: 0;
   padding: 0;
 }
+
+html {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 18px;
+  background-color: goldenrod;
+
+}
+
+.title { 
+height: 500px;
+width:500px;
+}
+
+.quote {
+height: 500px;
+width:500px;
+}
+
+.author {
+height: 500px;
+width:500px;
+}
+
+.pic {
+height: 500px;
+width:500px;
+border-radius: 50%;
+}
