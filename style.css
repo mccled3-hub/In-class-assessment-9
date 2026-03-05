@@ -14,18 +14,25 @@ p {
 border: 2px solid black;
 background-color: darkblue;
 border-radius: 20%;
+margin: 20px;
 }
 
 .title { 
-
+font-weight: bold;
+text-transform: uppercase;
 }
 
 .quote {
-
+font-style: italic;
+font-size: 15px;
+text-transform: lowercase;
+margin: 15px auto;
 }
 
 .author {
-
+  color:aqua;
+  font-size: 12px;
+font-weight: bold;
 }
 
 .pic {
