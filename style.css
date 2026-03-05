@@ -7,36 +7,41 @@ html {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 18px;
   background-color: goldenrod;
-
+  text-align: center;
+  margin: 10px auto;
 }
 
 p {
 border: 2px solid black;
 background-color: darkblue;
-border-radius: 20%;
-margin: 20px;
+border-radius: 15px;
+margin: 10px auto;
 }
 
 .title { 
+  color: brown;
 font-weight: bold;
 text-transform: uppercase;
+margin: 10px auto;
 }
 
 .quote {
 font-style: italic;
 font-size: 15px;
 text-transform: lowercase;
-margin: 15px auto;
+margin: 10px auto;
 }
 
 .author {
   color:aqua;
   font-size: 12px;
 font-weight: bold;
+margin: 10px auto;
 }
 
 .pic {
 width: 100%; height: auto;
 overflow:hidden;
-border-radius: 20%;
+border-radius: 15px;
+margin: 10px auto;
 }
